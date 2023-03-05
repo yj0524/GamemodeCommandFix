@@ -1,0 +1,6 @@
+name: GamemodeCommandFix
+version: '${project.version}'
+main: com.yj0524.Main
+api-version: 1.19
+commands:
+  gm:
